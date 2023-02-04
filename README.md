@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Hasan Altay</h1>
+<h1 align="center">Hi,I am Hasan Altay</h1>
 <h3 align="center">As a Front-end developer based in Frankfurt, Germany, I specialize in creating visually stunning and user-friendly websites and web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
 
+- 🌱 I’m currently learning **Angular Framework**
+
 - 👨‍💻 All of my projects are available at [https://www.hasanaltay.de](https://www.hasanaltay.de)
 
-- 📫 How to reach me **altay@developer@posteo.de**
+- 📫 How to reach me **altay.developer@posteo.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
