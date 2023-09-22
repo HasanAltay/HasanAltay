@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **Angular and React Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.hasanaltay.de](https://www.hasanaltay.de)
 
