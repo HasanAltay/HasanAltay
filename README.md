@@ -1,5 +1,7 @@
 <h1 align="center">Hello there! I'm Hasan</h1>
-<h3 align="center">I'm your front-end wizard, specializing in crafting visually stunning and user-friendly websites and web applications.</h3>
+<h3 align="center">I'm your front-end wizard,</h3>
+<h3 align="center">specializing in crafting visually stunning and user-friendly websites</h3>
+<h3 align="center">and web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
 
