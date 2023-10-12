@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay" alt="hasanaltay" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://hasanaltay.de/](https://hasanaltay.de/)
+- 👨‍💻 All of my projects are available at [https://hasanaltay.de](https://hasanaltay.de/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
