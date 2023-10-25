@@ -11,7 +11,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanaltay" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">### :hammer_and_wrench: Languages and Tools :</h3>
+<h3 align="center"> :hammer_and_wrench: Languages and Tools :</h3>
 
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=angular&theme=dark" alt="angular" width="48" height="48" /> </a> 
@@ -31,8 +31,6 @@
 <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" alt="webpack" width="40" height="40" /> </a>
 </p>
 
-
-![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut)](https://github.com/hasanaltay/github-readme-stats)
 
