@@ -5,7 +5,6 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=onedark&title=Stars,Followers,Commit,Repositories,Commits,Experience)
 
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
