@@ -16,7 +16,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanaltay" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=angular&theme=dark" alt="angular" width="48" height="48" /> </a> 
@@ -26,7 +26,9 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=sass&theme=dark" alt="sass" width="48" height="48" /> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=ts&theme=dark" alt="typescript" width="48" height="48" /> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=firebase&theme=dark" alt="firebase" width="48" height="48" /> </a> 
-  
+</p>
+
+<p align="center"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=nodejs&theme=dark" alt="nodejs" width="40" height="40" /> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=photoshop&theme=dark" alt="photoshop" width="40" height="40" /> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=react&theme=dark" alt="react" width="40" height="40" /> </a>
@@ -34,6 +36,8 @@
 <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaltay&show_icons=true&locale=en&layout=compact" alt="hasanaltay" />
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaltay&show_icons=true&locale=en&layout=compact" alt="hasanaltay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&locale=en" alt="hasanaltay" />
 </p>
