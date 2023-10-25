@@ -32,13 +32,7 @@
 </p>
 
 
-<p align="center"> ![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only) </p>
-  
+![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
-
-
-<p align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut)](https://github.com/hasanaltay/github-readme-stats)
 
-</p>
