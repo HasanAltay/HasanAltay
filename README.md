@@ -2,23 +2,23 @@
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning websites<br> and web applications.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
 
-<p align="right">All of my projects are available at [https://hasanaltay.de](https://hasanaltay.de/)
+<p align="center">All of my projects are available at [https://hasanaltay.de](https://hasanaltay.de/)
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay" alt="hasanaltay" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay" alt="hasanaltay" /></a> </p>
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/hasanaltay" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanaltay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=angular&theme=dark" alt="angular" width="48" height="48" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=css&theme=dark" alt="css3" width="48" height="48" /> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=javascript&theme=dark" alt="javascript" width="48" height="48" /></a>
@@ -34,6 +34,6 @@
 <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaltay&show_icons=true&locale=en&layout=compact" alt="hasanaltay" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaltay&show_icons=true&locale=en&layout=compact" alt="hasanaltay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&locale=en" alt="hasanaltay" />
 </p>
