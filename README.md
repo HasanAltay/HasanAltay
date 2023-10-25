@@ -32,12 +32,10 @@
 </p>
 
 
-<p align="center">
-
-![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<p align="center"> ![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only) </p>
   
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
-</p>
+
 
 <p align="center">
   
