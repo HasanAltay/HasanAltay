@@ -33,6 +33,9 @@
 
 
 <p align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaltay&show_icons=true&locale=en&layout=compact" alt="hasanaltay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&locale=en" alt="hasanaltay" />
 </p>
