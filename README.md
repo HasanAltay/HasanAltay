@@ -1,11 +1,13 @@
 <h1 align="center">Hello there! I'm Hasan</h1>
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning and user-friendly websites<br> and web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> 
+<p align="right"> All of my projects are available at [https://hasanaltay.de](https://hasanaltay.de/)
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay" alt="hasanaltay" /></a> </p>
 
-All of my projects are available at [https://hasanaltay.de](https://hasanaltay.de/)
+
 
 <h3 align="left">Connect with me:</h3>
 
