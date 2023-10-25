@@ -33,6 +33,9 @@
 
 
 <p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut)](https://github.com/hasanaltay/github-readme-stats)
+
 </p>
