@@ -35,7 +35,6 @@
 <p align="center">
 
 ![](https://raw.githubusercontent.com/hasanaltay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
 </p>
