@@ -2,7 +2,12 @@
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning websites<br> and web applications.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay" alt="hasanaltay" /></a> </p>
+<p align="center"> 
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=onedark)]
+
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 
