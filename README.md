@@ -5,7 +5,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits,Follower,Stars&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,6 +41,8 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=webpack&theme=dark" alt="webpack" width="40" height="40" /></a> &nbsp;&nbsp;
 <a href="https://figma.com" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=figma&theme=dark" alt="webpack" width="40" height="40" /></a> &nbsp;&nbsp;
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut&theme=transparent)
