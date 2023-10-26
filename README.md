@@ -5,7 +5,7 @@
 <table>
     <thead>
         <tr>
-            <th style="text-align:center;"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" /></th>
+            <th style="text-align:center;"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=200&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" /></th>
         </tr>
     </thead>
     <tbody>
