@@ -4,7 +4,7 @@
 
 <p align="center" width="100%" height="100%">
   <img width="33%" />
-  <img width="33%" src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
     <img width="33%" />
 </p>
 
