@@ -2,8 +2,8 @@
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning websites<br> and web applications.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /></p>
 
-<p align="center" width="120%">
-  <img width="80%" height="100%" src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+<p align="center" width="180%">
+  <img width="180%" src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
 </p>
 
 <h3 align="center">Connect with me :</h3>
