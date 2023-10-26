@@ -13,7 +13,7 @@
 <h3 align="center"> :hammer_and_wrench: Languages and Tools :</h3>
 
 <p align="center"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=angular&theme=dark" alt="angular" width="48" height="48" /></a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=angular&theme=dark" alt="angular" width="48" height="48" /></a> &nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=css&theme=dark" alt="css3" width="48" height="48" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=javascript&theme=dark" alt="javascript" width="48" height="48" /></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=html&theme=dark" alt="html5" width="48" height="48" /></a>
