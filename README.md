@@ -6,11 +6,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
 
 
-<div align="center">
-  <div style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-  </div>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+</p>
 
 <h3 align="center">Connect with me :</h3>
 
