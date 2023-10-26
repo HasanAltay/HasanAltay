@@ -31,8 +31,11 @@
 <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=figma&theme=dark" alt="webpack" width="40" height="40" /> </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut&theme=transparent)
 
 
