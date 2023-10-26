@@ -27,6 +27,8 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=firebase&theme=dark" alt="firebase" width="48" height="48" /></a> 
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 <p align="center"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=nodejs&theme=dark" alt="nodejs" width="40" height="40" /></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=photoshop&theme=dark" alt="photoshop" width="40" height="40" /></a> 
@@ -36,5 +38,5 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=hasanaltay&show_icons=true&theme=transparent)
-![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaltay&layout=donut&theme=transparent)
