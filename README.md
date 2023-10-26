@@ -2,15 +2,8 @@
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning websites<br> and web applications.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /></p>
 
-<table>
-    <thead>
-        <tr>
-            <th style="text-align:center;"><img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=200&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" /></th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=200&margin-h=200&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+
 
 <p align="center" width="180%">
   <img width="180%" src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
