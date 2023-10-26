@@ -1,12 +1,7 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
 <h1 align="center">Hello there! I'm Hasan</h1>
 <h3 align="center">I'm your front-end wizard, <br> specializing in crafting visually stunning websites<br> and web applications.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hasanaltay&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaltay" /></p>
-
-<p align="center" width="100%" height="100%">
-  <img width="33%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-    <img width="33%" />
-</p>
 
 <h3 align="center">Connect with me :</h3>
 
@@ -25,12 +20,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=sass&theme=dark" alt="sass" width="48" height="48" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=ts&theme=dark" alt="typescript" width="48" height="48" /></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skills.thijs.gg/icons?i=firebase&theme=dark" alt="firebase" width="48" height="48" /></a> 
-</p>
-
-<p align="center" width="100%" height="100%">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=hasanaltay&theme=tokyonight&title=Commits&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
-
 </p>
 
 <p align="center"> 
